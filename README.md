@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/raza-khan0108/leetcode/tree/master/0125-valid-palindrome) |
 | [1927-sum-game](https://github.com/raza-khan0108/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/raza-khan0108/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/raza-khan0108/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/raza-khan0108/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/raza-khan0108/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
