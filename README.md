@@ -123,6 +123,7 @@ Browse by topic in the index below, or open a problem folder directly using its 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/raza-khan0108/leetcode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/raza-khan0108/leetcode/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/raza-khan0108/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1563-stone-game-v](https://github.com/raza-khan0108/leetcode/tree/master/1563-stone-game-v) |
@@ -225,6 +226,7 @@ Browse by topic in the index below, or open a problem folder directly using its 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/raza-khan0108/leetcode/tree/master/0002-add-two-numbers) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/raza-khan0108/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Binary Search
 |  |
@@ -297,6 +299,10 @@ Browse by topic in the index below, or open a problem folder directly using its 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/raza-khan0108/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/raza-khan0108/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
 
 ## Setup (for your own copy)
