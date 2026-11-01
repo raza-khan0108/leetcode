@@ -1,4 +1,41 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# LeetCode Solutions
+
+My solutions to LeetCode problems, auto-synced to this repo with [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0) each time I submit an accepted solution.
+
+![Solved](https://img.shields.io/badge/solved-42-brightgreen) ![Topics](https://img.shields.io/badge/topics-37-blue)
+
+## At a glance
+
+- **Problems solved:** 42
+- **Topics covered:** 37
+- **Most practiced:** Array (32), String (10), Math (10), Greedy (10), Hash Table (8), Two Pointers (7)
+- **Focus areas:** array manipulation, game theory (Stone Game series), greedy, DP, graph/grid traversal, and advanced data structures (Segment Tree, Binary Indexed Tree, Union-Find)
+
+## Repository structure
+
+Each problem lives in its own folder named `<number>-<problem-slug>`:
+
+```
+leetcode/
+├── 0011-container-with-most-water/
+│   ├── README.md        # problem statement (added by LeetHub)
+│   └── <solution file>  # my accepted solution
+├── 0026-remove-duplicates-from-sorted-array/
+└── ...
+```
+
+## How this repo is maintained
+
+1. Solve a problem on [leetcode.com](https://leetcode.com).
+2. LeetHub v2 commits the accepted solution and problem description to a new folder.
+3. LeetHub regenerates the topic index below.
+
+> **Do not edit anything between the `LeetCode Topics Start` and `LeetCode Topics End` markers.** LeetHub overwrites that section on every sync. Keep custom content above or below it.
+
+## Find a solution
+
+Browse by topic in the index below, or open a problem folder directly using its number prefix (e.g. `1569-...`).
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
@@ -261,3 +298,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/raza-khan0108/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
+
+## Setup (for your own copy)
+
+1. Install the [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0) browser extension.
+2. Authenticate with GitHub and link or create a repository.
+3. Submit a solution on LeetCode. It syncs automatically.
+
+## Author
+
+[Raza Khan](https://github.com/raza-khan0108)
