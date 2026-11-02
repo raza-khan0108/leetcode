@@ -47,6 +47,7 @@ Browse by topic in the index below, or open a problem folder directly using its 
 | [0189-rotate-array](https://github.com/raza-khan0108/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/raza-khan0108/leetcode/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/raza-khan0108/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/raza-khan0108/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/raza-khan0108/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/raza-khan0108/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/raza-khan0108/leetcode/tree/master/1563-stone-game-v) |
@@ -126,6 +127,7 @@ Browse by topic in the index below, or open a problem folder directly using its 
 | [0002-add-two-numbers](https://github.com/raza-khan0108/leetcode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/raza-khan0108/leetcode/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/raza-khan0108/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/raza-khan0108/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1563-stone-game-v](https://github.com/raza-khan0108/leetcode/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raza-khan0108/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/raza-khan0108/leetcode/tree/master/1872-stone-game-viii) |
@@ -217,6 +219,7 @@ Browse by topic in the index below, or open a problem folder directly using its 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/raza-khan0108/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raza-khan0108/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raza-khan0108/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/raza-khan0108/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
