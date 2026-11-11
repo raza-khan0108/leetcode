@@ -138,6 +138,7 @@ Browse by topic in the index below, or open a problem folder directly using its 
 | [2409-count-days-spent-together](https://github.com/raza-khan0108/leetcode/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/raza-khan0108/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/raza-khan0108/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/raza-khan0108/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3886-sum-of-sortable-integers](https://github.com/raza-khan0108/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Greedy
 |  |
@@ -152,6 +153,7 @@ Browse by topic in the index below, or open a problem folder directly using its 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/raza-khan0108/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/raza-khan0108/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/raza-khan0108/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/raza-khan0108/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Minimax
 |  |
 | ------- |
