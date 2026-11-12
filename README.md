@@ -64,6 +64,7 @@ Browse by topic in the index below, or open a problem folder directly using its 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/raza-khan0108/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/raza-khan0108/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/raza-khan0108/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/raza-khan0108/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/raza-khan0108/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/raza-khan0108/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/raza-khan0108/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
