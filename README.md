@@ -85,6 +85,7 @@ Browse by topic in the index below, or open a problem folder directly using its 
 | [0125-valid-palindrome](https://github.com/raza-khan0108/leetcode/tree/master/0125-valid-palindrome) |
 | [1927-sum-game](https://github.com/raza-khan0108/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/raza-khan0108/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/raza-khan0108/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/raza-khan0108/leetcode/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/raza-khan0108/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/raza-khan0108/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -197,6 +198,7 @@ Browse by topic in the index below, or open a problem folder directly using its 
 ## Simulation
 |  |
 | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/raza-khan0108/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/raza-khan0108/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/raza-khan0108/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
