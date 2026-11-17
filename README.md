@@ -88,6 +88,7 @@ Browse by topic in the index below, or open a problem folder directly using its 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/raza-khan0108/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/raza-khan0108/leetcode/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/raza-khan0108/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/raza-khan0108/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/raza-khan0108/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/raza-khan0108/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/raza-khan0108/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -193,6 +194,7 @@ Browse by topic in the index below, or open a problem folder directly using its 
 | [1563-stone-game-v](https://github.com/raza-khan0108/leetcode/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raza-khan0108/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/raza-khan0108/leetcode/tree/master/1872-stone-game-viii) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/raza-khan0108/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3665-twisted-mirror-path-count](https://github.com/raza-khan0108/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/raza-khan0108/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
@@ -223,6 +225,7 @@ Browse by topic in the index below, or open a problem folder directly using its 
 | [0189-rotate-array](https://github.com/raza-khan0108/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/raza-khan0108/leetcode/tree/master/0283-move-zeroes) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raza-khan0108/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/raza-khan0108/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/raza-khan0108/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
 |  |
