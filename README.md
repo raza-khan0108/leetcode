@@ -59,6 +59,7 @@ Browse by topic in the index below, or open a problem folder directly using its 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/raza-khan0108/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/raza-khan0108/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raza-khan0108/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/raza-khan0108/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/raza-khan0108/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raza-khan0108/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/raza-khan0108/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -157,6 +158,7 @@ Browse by topic in the index below, or open a problem folder directly using its 
 | [2029-stone-game-ix](https://github.com/raza-khan0108/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/raza-khan0108/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raza-khan0108/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/raza-khan0108/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raza-khan0108/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/raza-khan0108/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/raza-khan0108/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -241,6 +243,7 @@ Browse by topic in the index below, or open a problem folder directly using its 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raza-khan0108/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raza-khan0108/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raza-khan0108/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/raza-khan0108/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/raza-khan0108/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/raza-khan0108/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/raza-khan0108/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
