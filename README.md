@@ -149,6 +149,7 @@ Browse by topic in the index below, or open a problem folder directly using its 
 | [1927-sum-game](https://github.com/raza-khan0108/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/raza-khan0108/leetcode/tree/master/2029-stone-game-ix) |
 | [2409-count-days-spent-together](https://github.com/raza-khan0108/leetcode/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/raza-khan0108/leetcode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/raza-khan0108/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/raza-khan0108/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/raza-khan0108/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -209,6 +210,7 @@ Browse by topic in the index below, or open a problem folder directly using its 
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/raza-khan0108/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/raza-khan0108/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/raza-khan0108/leetcode/tree/master/3360-stone-removal-game) |
 | [3925-concatenate-array-with-reverse](https://github.com/raza-khan0108/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
 |  |
